@@ -1,0 +1,80 @@
+body {
+    background: url("/assets/images/bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Calibri";
+    font-weight: bold;
+}
+
+h1 {
+    color: #f7f7f7;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: "Calibri";
+    text-align: center;
+    text-shadow: 1px 1px 1px #000; color: #f9f5ed; /* Тень*/
+}
+
+html {
+    height: 100%;
+}
+
+.login-form {
+    font: 16px/2em Lato, serif;
+    margin: 100px auto;
+    max-width: 400px;
+}
+
+form {
+    color: #5d5d5d;
+    background: #f2f2f2;
+    padding: 26px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+form #login {
+    font-size: 18px;
+    margin: 16px 0;
+}
+
+form input {
+    margin: 16px 0;
+}
+
+form div {
+    text-align: center;
+}
+
+table {
+    font-family: "Calibri";
+    font-size: 18px;
+    margin: 16px 0;
+    color: #f2f2f2;
+}
+th {
+    font-family: "Calibri";
+}
+td {
+    border-bottom: 1px solid #eee;
+    position: relative;
+    padding-left: 50%;
+    white-space: normal;
+    text-align:left;
+}
+
+input {
+    color: #5d5d5d;
+    background: #f2f2f2;
+    padding: 26px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+form #forphone {
+    font-size: 48px;
+    font-weight: bold;
+    font-family: "Calibri";
+}
